@@ -1,8 +1,6 @@
 #include <cmath>
 #include <iostream>
 using namespace std;
-#include "cmath"
-// option one
 int main() {
     float a = 4.8;
     float b = -7.9;
